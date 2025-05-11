@@ -1,1 +1,1 @@
-# Modern_Chair Project
+# Parallex-Effect-Project
