@@ -1,1 +1,1 @@
-# Image_Gallery_Project
+# Modern_Chair Project
